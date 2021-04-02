@@ -1,6 +1,6 @@
 <?php
 
 
-print("weclome to OCP first !!";
+print "weclome to OCP first !!";
       
 ?>
